@@ -2,12 +2,20 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
+<<<<<<< HEAD
     <loc>http://localhost:49921/en/sitemap.xml</loc>
+=======
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/en/sitemap.xml</loc>
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
     
   </sitemap>
   
   <sitemap>
+<<<<<<< HEAD
     <loc>http://localhost:49921/ar/sitemap.xml</loc>
+=======
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/ar/sitemap.xml</loc>
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
     
   </sitemap>
   

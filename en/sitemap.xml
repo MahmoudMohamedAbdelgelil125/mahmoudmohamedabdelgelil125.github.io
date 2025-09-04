@@ -2,15 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:49921/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/blog/"
+=======
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/blog/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/blog/"
                 />
   </url><url>
@@ -19,10 +28,21 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/categories/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/blog/"
+                />
+  </url><url>
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/categories/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/categories/"
                 />
   </url><url>
@@ -31,10 +51,21 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/"
                 />
   </url><url>
@@ -43,10 +74,21 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/projects/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/"
+                />
+  </url><url>
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/projects/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/projects/"
                 />
   </url><url>
@@ -55,10 +97,21 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/resume/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/projects/"
+                />
+  </url><url>
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/resume/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/resume/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/resume/"
                 />
   </url><url>
@@ -67,11 +120,25 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:49921/ar/tags/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/resume/"
+                />
+  </url><url>
+    <loc>https://mahmoudmohamedabdelgelil125.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://mahmoudmohamedabdelgelil125.github.io/ar/tags/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://localhost:49921/tags/"
+=======
+                href="https://mahmoudmohamedabdelgelil125.github.io/tags/"
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
                 />
   </url>
 </urlset>

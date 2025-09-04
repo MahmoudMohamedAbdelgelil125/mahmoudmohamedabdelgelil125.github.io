@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>السيرة الذاتية on محمود محمد</title>
+<<<<<<< HEAD
     <link>http://localhost:49921/ar/resume/</link>
     <description>Recent content in السيرة الذاتية on محمود محمد</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>ar</language>
     <atom:link href="http://localhost:49921/ar/resume/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://mahmoudmohamedabdelgelil125.github.io/ar/resume/</link>
+    <description>Recent content in السيرة الذاتية on محمود محمد</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>ar</language>
+    <atom:link href="https://mahmoudmohamedabdelgelil125.github.io/ar/resume/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 51a9f4f838e2ff89eb9dabe16f247b6b87dcd65a
   </channel>
 </rss>
