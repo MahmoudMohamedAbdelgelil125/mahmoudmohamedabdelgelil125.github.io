@@ -40,6 +40,8 @@ tags:
   - Azure
 ---
 
+![Backend Icon](/images/backend-icon.svg){width="80" height="80"}
+
 Backend Developer | Python | Django | ASP.NET Core  
 I build scalable backend systems and enjoy working with databases.
 

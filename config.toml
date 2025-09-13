@@ -57,6 +57,9 @@ enableEmoji = true
   favicon = "favicon.svg"
   favicon16x16 = "favicon.svg"
   favicon32x32 = "favicon.svg"
+  
+  # Backend icon for branding
+  logo = "images/backend-icon.svg"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
