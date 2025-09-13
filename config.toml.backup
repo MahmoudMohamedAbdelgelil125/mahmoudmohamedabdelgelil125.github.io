@@ -1,0 +1,157 @@
+baseURL = "https://mahmoudmohamedabdelgelil125.github.io/"
+
+languageCode = "en-us"
+title = "Mahmoud Mohamed"
+theme = "hugo-coder"
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    [languages.en.params]
+      [languages.en.params.profileMode]
+        enabled = true
+        title = "Mahmoud Mohamed"
+        subtitle = "Backend Developer"
+        imageUrl = "images/profile.jpg"
+        imageWidth = 120
+        imageHeight = 120
+        buttons = [
+          { name = "Projects", url = "/projects/" },
+          { name = "Resume", url = "/resume/" }
+        ]
+  [languages.ar]
+    languageName = "العربية"
+    weight = 1
+    title = "محمود محمد"
+    languageCode = "ar"
+    [languages.ar.params]
+      [languages.ar.params.profileMode]
+        enabled = true
+        title = "محمود محمد"
+        subtitle = "مطور خلفي"
+        imageUrl = "images/profile.jpg"
+        imageWidth = 120
+        imageHeight = 120
+        buttons = [
+          { name = "المشاريع", url = "/projects/" },
+          { name = "السيرة الذاتية", url = "/resume/" }
+        ]
+
+[params]
+  env = "production"
+  title = "Mahmoud Mohamed"
+  description = "Backend Developer | Python | Django | ASP.NET Core"
+  author = "Mahmoud Mohamed"
+  defaultTheme = "dark"
+  disableThemeToggle = false
+  displayFullLangName = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  # Social Icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Mahmoudmohamed125"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/mahmoud-mohamed-9097a8280/"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:YOUR_EMAIL@example.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 5
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+  [[languages.en.menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 5
+
+[languages.ar.menu]
+  [[languages.ar.menu.main]]
+    identifier = "projects"
+    name = "المشاريع"
+    url = "/projects/"
+    weight = 1
+  [[languages.ar.menu.main]]
+    identifier = "resume"
+    name = "السيرة الذاتية"
+    url = "/resume/"
+    weight = 2
+  [[languages.ar.menu.main]]
+    identifier = "blog"
+    name = "المدونة"
+    url = "/blog/"
+    weight = 3
+  [[languages.ar.menu.main]]
+    identifier = "tags"
+    name = "العلامات"
+    url = "/tags/"
+    weight = 4
+  [[languages.ar.menu.main]]
+    identifier = "search"
+    name = "البحث"
+    url = "/search/"
+    weight = 5
+
+

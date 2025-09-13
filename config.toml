@@ -52,6 +52,14 @@ enableEmoji = true
   defaultTheme = "dark"
   disableThemeToggle = false
   displayFullLangName = true
+  
+  [params.assets]
+  favicon = "favicon.svg"
+  favicon16x16 = "favicon.svg"
+  favicon32x32 = "favicon.svg"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
   # Social Icons
   [[params.socialIcons]]
